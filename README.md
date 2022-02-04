@@ -1,6 +1,6 @@
 # Emperor
 Hi, this is your emperor speaking 📢
-<br />・Owner of Empire Network
+<br /><br />・Owner of Empire Network
 <br />・Staff at WitherHosting
 <br />・Discord bot creator
 <br />・Minecraft server developer
