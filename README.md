@@ -1,6 +1,6 @@
 # Emperor
 <p align="center">
- <img width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inverse.com%2Fgaming%2Fattack-on-titan-warzone-levi-ackerman-skin-bundle-release-date-price&psig=AOvVaw1A_YifCd102yejEf8MoynT&ust=1644032683930000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjA7pmR5fUCFQAAAAAdAAAAABAE" align="center" alt="Emperor" />
+ <img width="100px" src="https://www.dropbox.com/s/0b9e3avv16yz7rp/db0608c1-2c79-4a85-9f41-2f917749cf03-l-attacco-giganti-perche-levi-ackerman-eroe-potente-serie-v3-538845.jpeg?dl=0" align="center" alt="Emperor" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
