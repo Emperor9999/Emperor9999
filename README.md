@@ -1,8 +1,6 @@
 # Emperor
 <p align="center">
- <img width="100px" src="https://www.dropbox.com/s/0b9e3avv16yz7rp/db0608c1-2c79-4a85-9f41-2f917749cf03-l-attacco-giganti-perche-levi-ackerman-eroe-potente-serie-v3-538845.jpeg?dl=0" align="center" alt="Emperor" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" align="center" alt="Emperor" />
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
